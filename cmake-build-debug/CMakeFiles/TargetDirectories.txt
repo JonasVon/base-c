@@ -1,0 +1,3 @@
+C:/Users/jonas/base-c/cmake-build-debug/CMakeFiles/base_c.dir
+C:/Users/jonas/base-c/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/jonas/base-c/cmake-build-debug/CMakeFiles/rebuild_cache.dir
